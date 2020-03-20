@@ -11,6 +11,5 @@ describe("fizzBuzz", function(){
     it("should print 'number' when given number not divisble by 3 or 5", function(){
         expect(typeof FizzBuzz(2)).toEqual("number")
     })
-    
 
 })
